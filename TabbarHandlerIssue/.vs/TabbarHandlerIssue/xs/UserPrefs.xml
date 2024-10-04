@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{5A1AEC5A-5838-43B7-92FB-7452A4A54764}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabbarHandlerIssue/Platforms/iOS/TabbedPageHandler.cs">
+    <Files>
+      <File FileName="TabbarHandlerIssue/Platforms/Android/TabbedPageHandler.cs" Line="251" Column="10" />
+      <File FileName="TabbarHandlerIssue/Platforms/iOS/TabbedPageHandler.cs" Line="226" Column="1" />
+      <File FileName="TabbarHandlerIssue/MauiProgram.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabbarHandlerIssue" expanded="True">
+            <Node name="TabbarHandlerIssue" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+                <Node name="iOS" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TabbarHandlerIssue PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.08502854-76E4-4187-8F35-E81F6EF58234" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.138" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.08502854-76E4-4187-8F35-E81F6EF58234" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
